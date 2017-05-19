@@ -1,0 +1,2 @@
+Import : image to detect face.
+Ouput  : file json about face found and position of face in image
